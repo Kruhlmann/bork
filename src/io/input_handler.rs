@@ -1,4 +1,4 @@
-use crossterm::event::{Event, poll, read};
+use crossterm::event::{poll, read, Event};
 
 pub struct InputHandler;
 
